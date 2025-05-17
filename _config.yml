@@ -57,6 +57,9 @@ collections:
   others:
     output: true
     permalink: /:collection/:path/
+  books:
+    output: true
+    permalink: /:collection/:path/
 
 ordered_collections:
   - posts
